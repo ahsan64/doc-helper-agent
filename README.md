@@ -7,6 +7,7 @@ The user uploads a PDF and gives a high-level goal such as:
 - extract main ideas
 
 ## Note:
+- **Demo Video is included in the project folder**
 - **PDF file (Test_doc_artificial_intelligence.pdf) which is used for this test is inlcuded in the project folder.**
 - A sample run is included in `example_transcript.md`, and a screenshot of the output is included in `example_transcript.png` in the project folder.
 
